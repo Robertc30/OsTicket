@@ -31,4 +31,3 @@ After entering proper credentials we are able to login
 <img align="center" alt="Rob | Gmail" width="22px" src="https://i.imgur.com/Wv76wht.png" />
 
 Robert.m.cordero@gmail.com
-
