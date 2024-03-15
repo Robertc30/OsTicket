@@ -16,29 +16,12 @@ Enable IIS, Internet Information Services, and configure and enable needed servi
 
 <img src="https://i.imgur.com/xSYotJE.png"/></p>
 Enable necessary requirements
-<h2>Operating Systems Used </h2>
+<img src="https://i.imgur.com/jvWxRH8.png"/></p>
+After entering proper credentials we are able to login
 
-- Installing Windows Windows 10 Pro 2 vcpus 16 GiB memory
-<img src="https://i.imgur.com/R4D6bUG.png"/>
-<h2>Installation Steps</h2>
-
-
-- Create Azure account
-- Search for Virutal Machine or VM
-- Name your VM and create login infomation
-- Side note: If no resources are found one will be created for you
-
-<p>
-<img src="https://i.imgur.com/F888JCT.png"/>
-
-  - Don't forget to comfirm your hosting rights
-
-<p><img src="https://i.imgur.com/ggN1IRg.png"
-     Congrats!! You just made your first Virtual Machine running Windows 10. Take note of network settings 
+ <img src="https://i.imgur.com/O0cc8dc.png" alt="https://i.imgur.com/O0cc8dc.png" style="width: 50%;">
+    <img src="https://i.imgur.com/k4ZRS65.png" alt="https://i.imgur.com/k4ZRS65.png" style="width: 50%;">
+    Congrats we've set up a custom ticketing system for your company! Next we'll prioritoze SLA's, add users/employees and assign access levels
     
-</p>
-<p>
-Congrats!! You just made your first Virtual Machine running Windows 10 don't forget to take note of network settings 
-</p>
-<br />
+<h2>Operating Systems Used </h2>
 
