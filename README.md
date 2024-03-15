@@ -24,12 +24,11 @@ After entering proper credentials we are able to login
     Congrats we've set up a custom ticketing system for your company! Next we'll prioritoze SLA's, add users/employees and assign access levels
     <img src="https://i.imgur.com/qHW6Ic0.png"/></p>
 
-Follow my journey!
-[<img align="left" alt="Rob | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="center" alt="Rob | Gmail" width="22px" src="https://i.imgur.com/Wv76wht.png" />Robert.m.cordero@gmail.com
 
- [linkedin]: https://www.linkedin.com/in/robert-cordero-703365198/
- 42MQxsf4GITxMT4GYXyMj0EYH+NjEMbH+BiE8TE+BmF8jI9BGB/jYxDGx/gYhPExPgZhfIyPQRgf42MQpi7mf/iSOJg92S3TAAAAAElFTkSuQmCC" />][linkedin]
+<h2>Follow the journey on LinkedIn or Contact me directly</h2>
 
- [linkedin]: https://www.linkedin.com/in/robert-cordero-703365198/
- 
+<img align="left" alt="Rob | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="center" alt="Rob | Gmail" width="22px" src="https://i.imgur.com/Wv76wht.png" />
+
+Robert.m.cordero@gmail.com
+
