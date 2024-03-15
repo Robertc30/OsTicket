@@ -22,6 +22,12 @@ After entering proper credentials we are able to login
  <img src="https://i.imgur.com/O0cc8dc.png" alt="https://i.imgur.com/O0cc8dc.png" style="width: 50%;">
     <img src="https://i.imgur.com/k4ZRS65.png" alt="https://i.imgur.com/k4ZRS65.png" style="width: 50%;">
     Congrats we've set up a custom ticketing system for your company! Next we'll prioritoze SLA's, add users/employees and assign access levels
-    
-<h2>Operating Systems Used </h2>
+    <img src="https://i.imgur.com/qHW6Ic0.png"/></p>
+
+Follow my journey!
+[<img align="left" alt="Rob | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+ [linkedin]: https://www.linkedin.com/in/robert-cordero-703365198/
+
+You can contact me via email at [robert.m.cordero@gmail.com](mailto:robert.m.cordero@gmail.com)
 
